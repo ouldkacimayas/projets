@@ -1,4 +1,4 @@
-Solaf - Jeu de Plateforme
+﻿Solaf - Jeu de Plateforme
 
 🎮 Description
 
@@ -20,29 +20,15 @@ Ouvrir des coffres contenant des bonus.
 
 ⌨️ Commandes
 
-Action
+    Se déplacer : W, A, S, D
 
-Touche
+    Sauter : Espace
 
-Se déplacer
+    Interagir avec les NPC et objets : E
 
-W, A, S, D
+    Utiliser la souris pour sélectionner des items ou passer les dialogues
 
-Sauter
-
-Espace
-
-Interagir (NPC, objets)
-
-E
-
-Utiliser la souris
-
-Sélection d'items, skip des dialogues
-
-Ouvrir le menu
-
-Échap
+    Ouvrir le menu : Échap
 
 🛠️ Installation
 
