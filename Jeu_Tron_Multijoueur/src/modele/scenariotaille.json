@@ -1,0 +1,96 @@
+[
+
+    {
+        "tailleGrille": 5,
+        "joueurs": [
+          { "numero": 1, "profondeur": 5, "equipe": 1 },
+          { "numero": 2, "profondeur": 5, "equipe": 2 }
+        ],
+        "repetitions": 50
+      },
+      {
+        "tailleGrille": 5,
+        "joueurs": [
+          { "numero": 2, "profondeur": 5, "equipe": 2 },
+          { "numero": 1, "profondeur": 5, "equipe": 1 }
+        
+        ],
+        "repetitions": 50
+      },
+    {
+      "tailleGrille": 10,
+      "joueurs": [
+        { "numero": 1, "profondeur": 5, "equipe": 1 },
+        { "numero": 2, "profondeur": 5, "equipe": 2 }
+      ],
+      "repetitions": 50
+    },
+    {
+      "tailleGrille": 10,
+      "joueurs": [
+        { "numero": 2, "profondeur": 5, "equipe": 2 },
+        { "numero": 1, "profondeur": 5, "equipe": 1 }
+      
+      ],
+      "repetitions": 50
+    },
+    {
+      "tailleGrille": 15,
+      "joueurs": [
+        { "numero": 1, "profondeur": 5, "equipe": 1 },
+        { "numero": 2, "profondeur": 5, "equipe": 2 }
+        
+      ],
+      "repetitions": 50
+    },
+    {
+      "tailleGrille": 15,
+      "joueurs": [
+        
+        { "numero": 2, "profondeur": 5, "equipe": 2 },
+        { "numero": 1, "profondeur": 5, "equipe": 1 }
+        
+     
+      ],
+      "repetitions": 50
+    },
+    {
+      "tailleGrille": 20,
+      "joueurs": [
+        { "numero": 1, "profondeur": 5, "equipe": 1 },
+        { "numero": 2, "profondeur": 5, "equipe": 2 }
+   
+      ],
+      "repetitions": 50
+    },
+ 
+
+
+    {
+        "tailleGrille": 20,
+        "joueurs": [
+          { "numero": 2, "profondeur": 5, "equipe": 2 },
+          { "numero": 1, "profondeur": 5, "equipe": 1 }
+        ],
+        "repetitions": 50
+      },
+      {
+        "tailleGrille": 25,
+        "joueurs": [
+          { "numero": 1, "profondeur": 5, "equipe": 1 },
+          { "numero": 2, "profondeur": 5, "equipe": 2 }
+          
+        ],
+        "repetitions": 50
+      },
+      {
+        "tailleGrille": 25,
+        "joueurs": [
+          { "numero": 2, "profondeur": 5, "equipe": 2 },
+          { "numero": 1, "profondeur": 5, "equipe": 1 }
+      
+        ],
+        "repetitions": 50
+      }
+  
+  ]

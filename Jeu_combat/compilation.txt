@@ -1,0 +1,12 @@
+javac -d ./build modele/*.java
+javac -d .build vue/*.java
+javac -d ./build App.java
+java -cp ./build App
+javac -d ./build AppTerminal.java
+java -cp ./build AppTerminal
+javac -d ./build AppBots.java
+java -cp ./build AppBots
+javac -d ./build AppMain.java
+java -cp ./build AppMain
+
+

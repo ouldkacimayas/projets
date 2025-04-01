@@ -1,0 +1,333 @@
+[
+  
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 1 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 1 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 1 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 1 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 2 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 2 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 2 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 2 }
+    ],
+    "repetitions":50
+  },
+
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 3 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 3 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 3 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 3 }
+    ],
+    "repetitions":50
+  },
+
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 4 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 4 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 4 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 4 }
+    ],
+    "repetitions":50
+  },
+ 
+
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  
+
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 6 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 6 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 6 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 6 }
+    ],
+    "repetitions":50
+  },
+
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 7 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 7 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 7 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 7 }
+    ],
+    "repetitions":50
+  },
+
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 8 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 8 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 8 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 8 }
+    ],
+    "repetitions":50
+  },
+
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 9 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 9 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 9 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 9 }
+    ],
+    "repetitions":50
+  },  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 10 },
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 10 },
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 14, "y": 14, "profondeur": 5 },
+      { "numero": 1, "x": 0, "y": 0, "profondeur": 10 }
+    ],
+    "repetitions":50
+  },
+  {
+    "tailleGrille":25,
+    "joueurs": [
+      { "numero": 2, "x": 0, "y": 0, "profondeur": 5 },
+      { "numero": 1, "x": 14, "y": 14, "profondeur": 10 }
+    ],
+    "repetitions":50
+  }
+
+     
+]                                              

@@ -1,0 +1,266 @@
+[
+    {
+      "tailleGrille": 15,
+      "joueurs": [
+        { "numero": 1, "profondeur": 1, "equipe": 1 },
+        { "numero": 2, "profondeur": 2, "equipe": 2 }
+      ],
+      "repetitions": 2
+    },
+    {
+      "tailleGrille": 15,
+      "joueurs": [
+        { "numero": 1, "profondeur": 1, "equipe": 1 },
+        { "numero": 2, "profondeur": 2, "equipe": 2 },
+        { "numero": 3, "profondeur": 3, "equipe": 2 }
+      ],
+      "repetitions": 2
+    },
+    {
+      "tailleGrille": 15,
+      "joueurs": [
+        { "numero": 1, "profondeur": 1, "equipe": 1 },
+        { "numero": 2, "profondeur": 2, "equipe": 2 },
+        { "numero": 3, "profondeur": 3, "equipe": 2 },
+        { "numero": 4, "profondeur": 4, "equipe": 2 }
+      ],
+      "repetitions": 2
+    },
+    {
+      "tailleGrille": 15,
+      "joueurs": [
+        
+        { "numero": 2, "profondeur": 2, "equipe": 2 },
+        { "numero": 3, "profondeur": 3, "equipe": 2 },
+        { "numero": 4, "profondeur": 4, "equipe": 2 },
+        { "numero": 1, "profondeur": 1, "equipe": 1 },
+        { "numero": 5, "profondeur": 5, "equipe": 2 }
+      ],
+      "repetitions": 50
+    },
+    {
+      "tailleGrille": 15,
+      "joueurs": [
+        { "numero": 1, "profondeur": 1, "equipe": 1 },
+        { "numero": 2, "profondeur": 2, "equipe": 2 },
+        { "numero": 3, "profondeur": 3, "equipe": 2 },
+        { "numero": 4, "profondeur": 4, "equipe": 2 },
+        { "numero": 5, "profondeur": 5, "equipe": 2 },
+        { "numero": 6, "profondeur": 6, "equipe": 2 }
+      ],
+      "repetitions": 2
+    },
+ 
+
+
+    {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 2, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 2, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 2, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 9, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 }
+        ],
+        "repetitions": 50
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 2, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 },
+          { "numero": 6, "profondeur": 6, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+
+
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 3, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 3, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 3, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 3, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 3, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 },
+          { "numero": 6, "profondeur": 6, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+
+
+
+
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 4, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 4, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 4, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 4, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 4, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 },
+          { "numero": 6, "profondeur": 6, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+
+
+
+
+    {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 5, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 5, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 5, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 5, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 }
+        ],
+        "repetitions": 2
+      },
+      {
+        "tailleGrille": 15,
+        "joueurs": [
+          { "numero": 1, "profondeur": 5, "equipe": 1 },
+          { "numero": 2, "profondeur": 2, "equipe": 2 },
+          { "numero": 3, "profondeur": 3, "equipe": 2 },
+          { "numero": 4, "profondeur": 4, "equipe": 2 },
+          { "numero": 5, "profondeur": 5, "equipe": 2 },
+          { "numero": 6, "profondeur": 6, "equipe": 2 }
+        ],
+        "repetitions": 2
+      }
+  ]

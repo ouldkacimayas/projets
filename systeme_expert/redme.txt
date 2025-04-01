@@ -1,0 +1,15 @@
+ouvrir le terminal dans src c à d ou se trouve se readme 
+saisir dans le terminal "ant"
+
+
+////////////// POUR LES TESTS UNITAIRES //////////////////////
+D'abord Daut ouvrir le terminal dans src 
+----> pour compiler : 
+javac -cp .:../lib/junit-4.13.2.jar -d ../build/ systeme_expert/tests/*.java
+
+---->pour executer : 
+java -cp .:../lib/junit-4.13.2.jar:../lib/hamcrest-core-1.3.jar:../build/ org.junit.runner.JUnitCore systeme_expert.tests.AdditionTest
+
+Veuillez changer le nom de la classe de test que nous souhaitons 
+
+
